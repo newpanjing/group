@@ -1,3 +1,7 @@
+<pre>
+
+第N节课最接近的人放一起，按周N和课N分
+
 周灵犀-1=[2, 4, 6]   
 黄鑫辉-2=[1, 2, 5]   
 丁增玉尼-5=[1, 3, 4, 6]   
@@ -102,3 +106,472 @@ for 循环 编号
 最终结果：
 周一的人为：周灵犀、王晨阳、黄鑫辉、方超群、次仁扎西
 周二的人为：丁增玉尼
+
+
+
+最后结果：
+
+{id=148, week=10, wd=1, cid=1, name=祝根, sid=152722}
+{id=133, week=10, wd=1, cid=1, name=王晨阳, sid=160326}
+{id=138, week=10, wd=1, cid=1, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=1, cid=1, name=程辉, sid=150519}
+{id=143, week=10, wd=1, cid=1, name=黄鑫辉, sid=161514}
+{id=130, week=10, wd=1, cid=2, name=祁生发, sid=160111}
+{id=133, week=10, wd=1, cid=2, name=王晨阳, sid=160326}
+{id=132, week=10, wd=1, cid=2, name=柳天宇, sid=150321}
+{id=142, week=10, wd=1, cid=2, name=次仁扎西, sid=150615}
+{id=141, week=10, wd=1, cid=2, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=1, cid=2, name=丁增玉尼, sid=150613}
+{id=139, week=10, wd=1, cid=2, name=谭云丹, sid=160513}
+{id=137, week=10, wd=1, cid=2, name=唐亮, sid=150519}
+{id=135, week=10, wd=1, cid=2, name=王凯, sid=150516}
+{id=134, week=10, wd=1, cid=2, name=周灵犀, sid=150513}
+{id=147, week=10, wd=1, cid=2, name=王一霖, sid=162335}
+{id=146, week=10, wd=1, cid=2, name=陈翰林, sid=162332}
+{id=145, week=10, wd=1, cid=2, name=何凌睿, sid=162332}
+{id=144, week=10, wd=1, cid=2, name=方超群, sid=162332}
+{id=148, week=10, wd=1, cid=3, name=祝根, sid=152722}
+{id=131, week=10, wd=1, cid=3, name=田若岑, sid=150321}
+{id=136, week=10, wd=1, cid=3, name=程辉, sid=150519}
+{id=143, week=10, wd=1, cid=3, name=黄鑫辉, sid=161514}
+{id=133, week=10, wd=1, cid=4, name=王晨阳, sid=160326}
+{id=132, week=10, wd=1, cid=4, name=柳天宇, sid=150321}
+{id=140, week=10, wd=1, cid=4, name=丁增玉尼, sid=150613}
+{id=137, week=10, wd=1, cid=4, name=唐亮, sid=150519}
+{id=135, week=10, wd=1, cid=4, name=王凯, sid=150516}
+{id=134, week=10, wd=1, cid=4, name=周灵犀, sid=150513}
+{id=147, week=10, wd=1, cid=4, name=王一霖, sid=162335}
+{id=148, week=10, wd=1, cid=5, name=祝根, sid=152722}
+{id=131, week=10, wd=1, cid=5, name=田若岑, sid=150321}
+{id=142, week=10, wd=1, cid=5, name=次仁扎西, sid=150615}
+{id=141, week=10, wd=1, cid=5, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=1, cid=5, name=丁增玉尼, sid=150613}
+{id=138, week=10, wd=1, cid=5, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=1, cid=5, name=程辉, sid=150519}
+{id=135, week=10, wd=1, cid=5, name=王凯, sid=150516}
+{id=147, week=10, wd=1, cid=5, name=王一霖, sid=162335}
+{id=144, week=10, wd=1, cid=5, name=方超群, sid=162332}
+{id=146, week=10, wd=1, cid=5, name=陈翰林, sid=162332}
+{id=130, week=10, wd=1, cid=6, name=祁生发, sid=160111}
+{id=133, week=10, wd=1, cid=6, name=王晨阳, sid=160326}
+{id=132, week=10, wd=1, cid=6, name=柳天宇, sid=150321}
+{id=134, week=10, wd=1, cid=6, name=周灵犀, sid=150513}
+{id=143, week=10, wd=1, cid=6, name=黄鑫辉, sid=161514}
+{id=145, week=10, wd=1, cid=6, name=何凌睿, sid=162332}
+{id=133, week=10, wd=2, cid=1, name=王晨阳, sid=160326}
+{id=131, week=10, wd=2, cid=1, name=田若岑, sid=150321}
+{id=140, week=10, wd=2, cid=1, name=丁增玉尼, sid=150613}
+{id=138, week=10, wd=2, cid=1, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=2, cid=1, name=程辉, sid=150519}
+{id=143, week=10, wd=2, cid=1, name=黄鑫辉, sid=161514}
+{id=144, week=10, wd=2, cid=1, name=方超群, sid=162332}
+{id=148, week=10, wd=2, cid=2, name=祝根, sid=152722}
+{id=132, week=10, wd=2, cid=2, name=柳天宇, sid=150321}
+{id=142, week=10, wd=2, cid=2, name=次仁扎西, sid=150615}
+{id=138, week=10, wd=2, cid=2, name=谭佳幸, sid=160510}
+{id=137, week=10, wd=2, cid=2, name=唐亮, sid=150519}
+{id=136, week=10, wd=2, cid=2, name=程辉, sid=150519}
+{id=135, week=10, wd=2, cid=2, name=王凯, sid=150516}
+{id=134, week=10, wd=2, cid=2, name=周灵犀, sid=150513}
+{id=143, week=10, wd=2, cid=2, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=2, cid=2, name=王一霖, sid=162335}
+{id=146, week=10, wd=2, cid=2, name=陈翰林, sid=162332}
+{id=133, week=10, wd=2, cid=3, name=王晨阳, sid=160326}
+{id=131, week=10, wd=2, cid=3, name=田若岑, sid=150321}
+{id=141, week=10, wd=2, cid=3, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=2, cid=3, name=丁增玉尼, sid=150613}
+{id=139, week=10, wd=2, cid=3, name=谭云丹, sid=160513}
+{id=135, week=10, wd=2, cid=3, name=王凯, sid=150516}
+{id=144, week=10, wd=2, cid=3, name=方超群, sid=162332}
+{id=130, week=10, wd=2, cid=4, name=祁生发, sid=160111}
+{id=132, week=10, wd=2, cid=4, name=柳天宇, sid=150321}
+{id=142, week=10, wd=2, cid=4, name=次仁扎西, sid=150615}
+{id=140, week=10, wd=2, cid=4, name=丁增玉尼, sid=150613}
+{id=136, week=10, wd=2, cid=4, name=程辉, sid=150519}
+{id=137, week=10, wd=2, cid=4, name=唐亮, sid=150519}
+{id=145, week=10, wd=2, cid=4, name=何凌睿, sid=162332}
+{id=144, week=10, wd=2, cid=4, name=方超群, sid=162332}
+{id=148, week=10, wd=2, cid=5, name=祝根, sid=152722}
+{id=133, week=10, wd=2, cid=5, name=王晨阳, sid=160326}
+{id=135, week=10, wd=2, cid=5, name=王凯, sid=150516}
+{id=143, week=10, wd=2, cid=5, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=2, cid=5, name=王一霖, sid=162335}
+{id=144, week=10, wd=2, cid=5, name=方超群, sid=162332}
+{id=148, week=10, wd=2, cid=6, name=祝根, sid=152722}
+{id=131, week=10, wd=2, cid=6, name=田若岑, sid=150321}
+{id=132, week=10, wd=2, cid=6, name=柳天宇, sid=150321}
+{id=142, week=10, wd=2, cid=6, name=次仁扎西, sid=150615}
+{id=146, week=10, wd=2, cid=6, name=陈翰林, sid=162332}
+{id=132, week=10, wd=3, cid=1, name=柳天宇, sid=150321}
+{id=137, week=10, wd=3, cid=1, name=唐亮, sid=150519}
+{id=136, week=10, wd=3, cid=1, name=程辉, sid=150519}
+{id=135, week=10, wd=3, cid=1, name=王凯, sid=150516}
+{id=143, week=10, wd=3, cid=1, name=黄鑫辉, sid=161514}
+{id=144, week=10, wd=3, cid=1, name=方超群, sid=162332}
+{id=148, week=10, wd=3, cid=2, name=祝根, sid=152722}
+{id=130, week=10, wd=3, cid=2, name=祁生发, sid=160111}
+{id=133, week=10, wd=3, cid=2, name=王晨阳, sid=160326}
+{id=132, week=10, wd=3, cid=2, name=柳天宇, sid=150321}
+{id=142, week=10, wd=3, cid=2, name=次仁扎西, sid=150615}
+{id=141, week=10, wd=3, cid=2, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=3, cid=2, name=丁增玉尼, sid=150613}
+{id=136, week=10, wd=3, cid=2, name=程辉, sid=150519}
+{id=135, week=10, wd=3, cid=2, name=王凯, sid=150516}
+{id=148, week=10, wd=3, cid=3, name=祝根, sid=152722}
+{id=131, week=10, wd=3, cid=3, name=田若岑, sid=150321}
+{id=142, week=10, wd=3, cid=3, name=次仁扎西, sid=150615}
+{id=138, week=10, wd=3, cid=3, name=谭佳幸, sid=160510}
+{id=143, week=10, wd=3, cid=3, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=3, cid=3, name=王一霖, sid=162335}
+{id=146, week=10, wd=3, cid=3, name=陈翰林, sid=162332}
+{id=144, week=10, wd=3, cid=3, name=方超群, sid=162332}
+{id=145, week=10, wd=3, cid=3, name=何凌睿, sid=162332}
+{id=140, week=10, wd=3, cid=4, name=丁增玉尼, sid=150613}
+{id=139, week=10, wd=3, cid=4, name=谭云丹, sid=160513}
+{id=135, week=10, wd=3, cid=4, name=王凯, sid=150516}
+{id=134, week=10, wd=3, cid=4, name=周灵犀, sid=150513}
+{id=144, week=10, wd=3, cid=4, name=方超群, sid=162332}
+{id=133, week=10, wd=3, cid=5, name=王晨阳, sid=160326}
+{id=132, week=10, wd=3, cid=5, name=柳天宇, sid=150321}
+{id=140, week=10, wd=3, cid=5, name=丁增玉尼, sid=150613}
+{id=138, week=10, wd=3, cid=5, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=3, cid=5, name=程辉, sid=150519}
+{id=143, week=10, wd=3, cid=5, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=3, cid=5, name=王一霖, sid=162335}
+{id=148, week=10, wd=3, cid=6, name=祝根, sid=152722}
+{id=142, week=10, wd=3, cid=6, name=次仁扎西, sid=150615}
+{id=137, week=10, wd=3, cid=6, name=唐亮, sid=150519}
+{id=135, week=10, wd=3, cid=6, name=王凯, sid=150516}
+{id=144, week=10, wd=3, cid=6, name=方超群, sid=162332}
+{id=145, week=10, wd=3, cid=6, name=何凌睿, sid=162332}
+{id=148, week=10, wd=4, cid=1, name=祝根, sid=152722}
+{id=130, week=10, wd=4, cid=1, name=祁生发, sid=160111}
+{id=133, week=10, wd=4, cid=1, name=王晨阳, sid=160326}
+{id=140, week=10, wd=4, cid=1, name=丁增玉尼, sid=150613}
+{id=136, week=10, wd=4, cid=1, name=程辉, sid=150519}
+{id=133, week=10, wd=4, cid=2, name=王晨阳, sid=160326}
+{id=131, week=10, wd=4, cid=2, name=田若岑, sid=150321}
+{id=142, week=10, wd=4, cid=2, name=次仁扎西, sid=150615}
+{id=139, week=10, wd=4, cid=2, name=谭云丹, sid=160513}
+{id=137, week=10, wd=4, cid=2, name=唐亮, sid=150519}
+{id=143, week=10, wd=4, cid=2, name=黄鑫辉, sid=161514}
+{id=144, week=10, wd=4, cid=2, name=方超群, sid=162332}
+{id=146, week=10, wd=4, cid=2, name=陈翰林, sid=162332}
+{id=148, week=10, wd=4, cid=3, name=祝根, sid=152722}
+{id=131, week=10, wd=4, cid=3, name=田若岑, sid=150321}
+{id=132, week=10, wd=4, cid=3, name=柳天宇, sid=150321}
+{id=142, week=10, wd=4, cid=3, name=次仁扎西, sid=150615}
+{id=138, week=10, wd=4, cid=3, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=4, cid=3, name=程辉, sid=150519}
+{id=135, week=10, wd=4, cid=3, name=王凯, sid=150516}
+{id=143, week=10, wd=4, cid=3, name=黄鑫辉, sid=161514}
+{id=145, week=10, wd=4, cid=3, name=何凌睿, sid=162332}
+{id=133, week=10, wd=4, cid=4, name=王晨阳, sid=160326}
+{id=131, week=10, wd=4, cid=4, name=田若岑, sid=150321}
+{id=141, week=10, wd=4, cid=4, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=4, cid=4, name=丁增玉尼, sid=150613}
+{id=143, week=10, wd=4, cid=4, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=4, cid=4, name=王一霖, sid=162335}
+{id=146, week=10, wd=4, cid=4, name=陈翰林, sid=162332}
+{id=148, week=10, wd=4, cid=5, name=祝根, sid=152722}
+{id=130, week=10, wd=4, cid=5, name=祁生发, sid=160111}
+{id=131, week=10, wd=4, cid=5, name=田若岑, sid=150321}
+{id=132, week=10, wd=4, cid=5, name=柳天宇, sid=150321}
+{id=139, week=10, wd=4, cid=5, name=谭云丹, sid=160513}
+{id=136, week=10, wd=4, cid=5, name=程辉, sid=150519}
+{id=135, week=10, wd=4, cid=5, name=王凯, sid=150516}
+{id=134, week=10, wd=4, cid=5, name=周灵犀, sid=150513}
+{id=146, week=10, wd=4, cid=5, name=陈翰林, sid=162332}
+{id=144, week=10, wd=4, cid=5, name=方超群, sid=162332}
+{id=133, week=10, wd=4, cid=6, name=王晨阳, sid=160326}
+{id=132, week=10, wd=4, cid=6, name=柳天宇, sid=150321}
+{id=142, week=10, wd=4, cid=6, name=次仁扎西, sid=150615}
+{id=140, week=10, wd=4, cid=6, name=丁增玉尼, sid=150613}
+{id=148, week=10, wd=5, cid=1, name=祝根, sid=152722}
+{id=131, week=10, wd=5, cid=1, name=田若岑, sid=150321}
+{id=142, week=10, wd=5, cid=1, name=次仁扎西, sid=150615}
+{id=140, week=10, wd=5, cid=1, name=丁增玉尼, sid=150613}
+{id=135, week=10, wd=5, cid=1, name=王凯, sid=150516}
+{id=145, week=10, wd=5, cid=1, name=何凌睿, sid=162332}
+{id=148, week=10, wd=5, cid=2, name=祝根, sid=152722}
+{id=131, week=10, wd=5, cid=2, name=田若岑, sid=150321}
+{id=136, week=10, wd=5, cid=2, name=程辉, sid=150519}
+{id=135, week=10, wd=5, cid=2, name=王凯, sid=150516}
+{id=143, week=10, wd=5, cid=2, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=5, cid=2, name=王一霖, sid=162335}
+{id=146, week=10, wd=5, cid=2, name=陈翰林, sid=162332}
+{id=144, week=10, wd=5, cid=2, name=方超群, sid=162332}
+{id=130, week=10, wd=5, cid=3, name=祁生发, sid=160111}
+{id=133, week=10, wd=5, cid=3, name=王晨阳, sid=160326}
+{id=132, week=10, wd=5, cid=3, name=柳天宇, sid=150321}
+{id=142, week=10, wd=5, cid=3, name=次仁扎西, sid=150615}
+{id=140, week=10, wd=5, cid=3, name=丁增玉尼, sid=150613}
+{id=139, week=10, wd=5, cid=3, name=谭云丹, sid=160513}
+{id=138, week=10, wd=5, cid=3, name=谭佳幸, sid=160510}
+{id=137, week=10, wd=5, cid=3, name=唐亮, sid=150519}
+{id=134, week=10, wd=5, cid=3, name=周灵犀, sid=150513}
+{id=148, week=10, wd=5, cid=4, name=祝根, sid=152722}
+{id=131, week=10, wd=5, cid=4, name=田若岑, sid=150321}
+{id=141, week=10, wd=5, cid=4, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=5, cid=4, name=丁增玉尼, sid=150613}
+{id=144, week=10, wd=5, cid=4, name=方超群, sid=162332}
+{id=148, week=10, wd=5, cid=5, name=祝根, sid=152722}
+{id=130, week=10, wd=5, cid=5, name=祁生发, sid=160111}
+{id=133, week=10, wd=5, cid=5, name=王晨阳, sid=160326}
+{id=142, week=10, wd=5, cid=5, name=次仁扎西, sid=150615}
+{id=138, week=10, wd=5, cid=5, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=5, cid=5, name=程辉, sid=150519}
+{id=135, week=10, wd=5, cid=5, name=王凯, sid=150516}
+{id=143, week=10, wd=5, cid=5, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=5, cid=5, name=王一霖, sid=162335}
+{id=144, week=10, wd=5, cid=5, name=方超群, sid=162332}
+{id=145, week=10, wd=5, cid=5, name=何凌睿, sid=162332}
+{id=131, week=10, wd=5, cid=6, name=田若岑, sid=150321}
+{id=140, week=10, wd=5, cid=6, name=丁增玉尼, sid=150613}
+{id=146, week=10, wd=5, cid=6, name=陈翰林, sid=162332}
+{id=136, week=10, wd=6, cid=1, name=程辉, sid=150519}
+{id=135, week=10, wd=6, cid=1, name=王凯, sid=150516}
+{id=148, week=10, wd=6, cid=2, name=祝根, sid=152722}
+{id=130, week=10, wd=6, cid=2, name=祁生发, sid=160111}
+{id=133, week=10, wd=6, cid=2, name=王晨阳, sid=160326}
+{id=142, week=10, wd=6, cid=2, name=次仁扎西, sid=150615}
+{id=139, week=10, wd=6, cid=2, name=谭云丹, sid=160513}
+{id=147, week=10, wd=6, cid=2, name=王一霖, sid=162335}
+{id=146, week=10, wd=6, cid=2, name=陈翰林, sid=162332}
+{id=131, week=10, wd=6, cid=3, name=田若岑, sid=150321}
+{id=140, week=10, wd=6, cid=3, name=丁增玉尼, sid=150613}
+{id=138, week=10, wd=6, cid=3, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=6, cid=3, name=程辉, sid=150519}
+{id=137, week=10, wd=6, cid=3, name=唐亮, sid=150519}
+{id=144, week=10, wd=6, cid=3, name=方超群, sid=162332}
+{id=148, week=10, wd=6, cid=4, name=祝根, sid=152722}
+{id=133, week=10, wd=6, cid=4, name=王晨阳, sid=160326}
+{id=131, week=10, wd=6, cid=4, name=田若岑, sid=150321}
+{id=142, week=10, wd=6, cid=4, name=次仁扎西, sid=150615}
+{id=141, week=10, wd=6, cid=4, name=巴桑次仁, sid=150614}
+{id=135, week=10, wd=6, cid=4, name=王凯, sid=150516}
+{id=147, week=10, wd=6, cid=4, name=王一霖, sid=162335}
+{id=146, week=10, wd=6, cid=4, name=陈翰林, sid=162332}
+{id=145, week=10, wd=6, cid=4, name=何凌睿, sid=162332}
+{id=130, week=10, wd=6, cid=5, name=祁生发, sid=160111}
+{id=142, week=10, wd=6, cid=5, name=次仁扎西, sid=150615}
+{id=140, week=10, wd=6, cid=5, name=丁增玉尼, sid=150613}
+{id=137, week=10, wd=6, cid=5, name=唐亮, sid=150519}
+{id=136, week=10, wd=6, cid=5, name=程辉, sid=150519}
+{id=143, week=10, wd=6, cid=5, name=黄鑫辉, sid=161514}
+{id=146, week=10, wd=6, cid=5, name=陈翰林, sid=162332}
+{id=148, week=10, wd=6, cid=6, name=祝根, sid=152722}
+{id=131, week=10, wd=6, cid=6, name=田若岑, sid=150321}
+{id=139, week=10, wd=6, cid=6, name=谭云丹, sid=160513}
+{id=138, week=10, wd=6, cid=6, name=谭佳幸, sid=160510}
+{id=137, week=10, wd=7, cid=1, name=唐亮, sid=150519}
+{id=133, week=10, wd=7, cid=2, name=王晨阳, sid=160326}
+{id=131, week=10, wd=7, cid=2, name=田若岑, sid=150321}
+{id=142, week=10, wd=7, cid=2, name=次仁扎西, sid=150615}
+{id=141, week=10, wd=7, cid=2, name=巴桑次仁, sid=150614}
+{id=140, week=10, wd=7, cid=2, name=丁增玉尼, sid=150613}
+{id=138, week=10, wd=7, cid=2, name=谭佳幸, sid=160510}
+{id=136, week=10, wd=7, cid=2, name=程辉, sid=150519}
+{id=148, week=10, wd=7, cid=3, name=祝根, sid=152722}
+{id=132, week=10, wd=7, cid=3, name=柳天宇, sid=150321}
+{id=138, week=10, wd=7, cid=3, name=谭佳幸, sid=160510}
+{id=143, week=10, wd=7, cid=3, name=黄鑫辉, sid=161514}
+{id=146, week=10, wd=7, cid=3, name=陈翰林, sid=162332}
+{id=145, week=10, wd=7, cid=3, name=何凌睿, sid=162332}
+{id=133, week=10, wd=7, cid=4, name=王晨阳, sid=160326}
+{id=131, week=10, wd=7, cid=4, name=田若岑, sid=150321}
+{id=140, week=10, wd=7, cid=4, name=丁增玉尼, sid=150613}
+{id=135, week=10, wd=7, cid=4, name=王凯, sid=150516}
+{id=147, week=10, wd=7, cid=4, name=王一霖, sid=162335}
+{id=148, week=10, wd=7, cid=5, name=祝根, sid=152722}
+{id=136, week=10, wd=7, cid=5, name=程辉, sid=150519}
+{id=144, week=10, wd=7, cid=5, name=方超群, sid=162332}
+{id=132, week=10, wd=7, cid=6, name=柳天宇, sid=150321}
+{id=143, week=10, wd=7, cid=6, name=黄鑫辉, sid=161514}
+{id=147, week=10, wd=7, cid=6, name=王一霖, sid=162335}
+唐亮-1=[12, 14]
+唐亮-2=[22, 24]
+唐亮-5=[53]
+唐亮-6=[63, 65]
+唐亮-3=[31, 36]
+唐亮-4=[42]
+田若岑-7=[72, 74]
+田若岑-5=[51, 52, 54, 56]
+唐亮-7=[71]
+田若岑-6=[63, 64, 66]
+田若岑-3=[33]
+田若岑-4=[42, 43, 44, 45]
+田若岑-1=[13, 15]
+田若岑-2=[21, 23, 26]
+谭云丹-1=[12]
+巴桑次仁-4=[44]
+巴桑次仁-5=[54]
+谭云丹-3=[34]
+巴桑次仁-6=[64]
+谭云丹-2=[23]
+巴桑次仁-7=[72]
+谭云丹-5=[53]
+何凌睿-7=[73]
+巴桑次仁-1=[12, 15]
+谭云丹-4=[42, 45]
+巴桑次仁-2=[23]
+何凌睿-5=[51, 55]
+巴桑次仁-3=[32]
+谭云丹-6=[62, 66]
+何凌睿-6=[64]
+何凌睿-3=[33, 36]
+何凌睿-4=[43]
+何凌睿-1=[12, 16]
+何凌睿-2=[24]
+王晨阳-7=[72, 74]
+次仁扎西-3=[32, 33, 36]
+次仁扎西-2=[22, 24, 26]
+次仁扎西-1=[12, 15]
+方超群-5=[52, 54, 55]
+王晨阳-5=[53, 55]
+王晨阳-6=[62, 64]
+方超群-6=[63]
+王晨阳-3=[32, 35]
+方超群-7=[75]
+王晨阳-4=[41, 42, 44, 46]
+王晨阳-1=[11, 12, 14, 16]
+次仁扎西-7=[72]
+王晨阳-2=[21, 23, 25]
+次仁扎西-6=[62, 64, 65]
+次仁扎西-5=[51, 53, 55]
+次仁扎西-4=[42, 43, 46]
+祁生发-2=[24]
+祁生发-3=[32]
+祁生发-4=[41, 45]
+祁生发-5=[53, 55]
+祁生发-6=[62, 65]
+祁生发-1=[12, 16]
+方超群-1=[12, 15]
+方超群-2=[21, 23, 24, 25]
+方超群-3=[31, 33, 34, 36]
+方超群-4=[42, 45]
+祝根-3=[32, 33, 36]
+程辉-4=[41, 43, 45]
+程辉-3=[31, 32, 35]
+祝根-4=[41, 43, 45]
+祝根-1=[11, 13, 15]
+程辉-6=[61, 63, 65]
+祝根-2=[22, 25, 26]
+程辉-5=[52, 55]
+祝根-7=[73, 75]
+程辉-2=[21, 22, 24]
+祝根-5=[51, 52, 54, 55]
+程辉-1=[11, 13, 15]
+祝根-6=[62, 64, 66]
+程辉-7=[72, 75]
+柳天宇-1=[12, 14, 16]
+丁增玉尼-7=[72, 74]
+谭佳幸-1=[11, 15]
+柳天宇-2=[22, 24, 26]
+丁增玉尼-6=[63, 65]
+谭佳幸-2=[21, 22]
+柳天宇-3=[31, 32, 35]
+丁增玉尼-5=[51, 53, 54, 56]
+王一霖-1=[12, 14, 15]
+王一霖-3=[33, 35]
+王一霖-2=[22, 25]
+王一霖-5=[52, 55]
+谭佳幸-7=[72, 73]
+王一霖-4=[44]
+王一霖-7=[74, 76]
+王一霖-6=[62, 64]
+谭佳幸-3=[33, 35]
+丁增玉尼-4=[41, 44, 46]
+柳天宇-4=[43, 45, 46]
+丁增玉尼-3=[32, 34, 35]
+谭佳幸-4=[43]
+柳天宇-5=[53]
+丁增玉尼-2=[21, 23, 24]
+谭佳幸-5=[53, 55]
+丁增玉尼-1=[12, 14, 15]
+谭佳幸-6=[63, 66]
+柳天宇-7=[73, 76]
+陈翰林-7=[73]
+陈翰林-6=[62, 64, 65]
+黄鑫辉-7=[73, 76]
+黄鑫辉-5=[52, 55]
+黄鑫辉-6=[65]
+黄鑫辉-3=[31, 33, 35]
+黄鑫辉-4=[42, 43, 44]
+黄鑫辉-1=[11, 13, 16]
+黄鑫辉-2=[21, 22, 25]
+陈翰林-1=[12, 15]
+陈翰林-3=[33]
+陈翰林-2=[22, 26]
+陈翰林-5=[52, 56]
+陈翰林-4=[42, 44, 45]
+周灵犀-2=[22]
+周灵犀-3=[34]
+周灵犀-4=[45]
+周灵犀-5=[53]
+周灵犀-1=[12, 14, 16]
+王凯-2=[22, 23, 25]
+王凯-1=[12, 14, 15]
+王凯-4=[43, 45]
+王凯-3=[31, 32, 34, 36]
+王凯-6=[61, 64]
+王凯-5=[51, 52, 55]
+王凯-7=[74]
+[12, 14, 22, 24, 53, 63, 65, 31, 36, 42, 72, 74, 51, 52, 54, 56, 71, 64, 66, 33, 43, 44, 45, 13, 15, 21, 23, 26, 34, 73, 55, 32, 62, 16, 35, 75, 41, 46, 11, 25, 61, 76]
+[14, 7, 11, 8, 9, 6, 7, 6, 6, 8, 7, 5, 6, 8, 5, 3, 1, 9, 4, 9, 9, 7, 10, 4, 11, 7, 7, 5, 5, 6, 11, 9, 7, 6, 7, 3, 5, 4, 5, 6, 2, 3]
+keys排序后：[11, 12, 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, 31, 32, 33, 34, 35, 36, 41, 42, 43, 44, 45, 46, 51, 52, 53, 54, 55, 56, 61, 62, 63, 64, 65, 66, 71, 72, 73, 74, 75, 76]
+values排序后：[5, 14, 4, 7, 11, 6, 7, 11, 7, 8, 6, 5, 6, 9, 9, 5, 7, 6, 5, 8, 9, 7, 10, 4, 6, 8, 9, 5, 11, 3, 2, 7, 6, 9, 7, 4, 1, 7, 6, 5, 3, 3]
+keys排序后：[12, 15, 22, 55, 45, 32, 33, 43, 53, 64, 24, 42, 52, 14, 21, 23, 35, 44, 62, 65, 72, 16, 25, 31, 36, 51, 63, 73, 11, 26, 34, 41, 54, 74, 13, 46, 66, 56, 75, 76, 61, 71]
+values排序后：[14, 11, 11, 11, 10, 9, 9, 9, 9, 9, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 4, 4, 4, 3, 3, 3, 2, 1]
+编号：12 人数：[唐亮, 谭云丹, 巴桑次仁, 何凌睿, 次仁扎西, 王晨阳, 祁生发, 方超群, 柳天宇, 王一霖, 丁增玉尼, 陈翰林, 周灵犀, 王凯]
+编号：15 人数：[田若岑, 祝根, 程辉, 谭佳幸]
+编号：22 人数：[黄鑫辉]
+编号：55 人数：[]
+编号：45 人数：[]
+编号：32 人数：[]
+编号：33 人数：[]
+编号：43 人数：[]
+编号：53 人数：[]
+编号：64 人数：[]
+编号：24 人数：[]
+编号：42 人数：[]
+编号：52 人数：[]
+编号：14 人数：[]
+编号：21 人数：[]
+编号：23 人数：[]
+编号：35 人数：[]
+编号：44 人数：[]
+编号：62 人数：[]
+编号：65 人数：[]
+编号：72 人数：[]
+编号：16 人数：[]
+编号：25 人数：[]
+编号：31 人数：[]
+编号：36 人数：[]
+编号：51 人数：[]
+编号：63 人数：[]
+编号：73 人数：[]
+编号：11 人数：[]
+编号：26 人数：[]
+编号：34 人数：[]
+编号：41 人数：[]
+编号：54 人数：[]
+编号：74 人数：[]
+编号：13 人数：[]
+编号：46 人数：[]
+编号：66 人数：[]
+编号：56 人数：[]
+编号：75 人数：[]
+编号：76 人数：[]
+编号：61 人数：[]
+编号：71 人数：[]
+总共天数：4
+周1的人为：
+唐亮 谭云丹 巴桑次仁 何凌睿 次仁扎西 
+周2的人为：
+王晨阳 祁生发 方超群 柳天宇 王一霖 
+周3的人为：
+丁增玉尼 陈翰林 周灵犀 王凯 田若岑 
+周4的人为：
+祝根 程辉 谭佳幸 黄鑫辉 
+</pre>
